@@ -1,0 +1,31 @@
+[
+    {
+        "nome": "Atletico Mineiro",
+        "imagem": "imgs/atleticoMG.webp"
+    },
+
+    {
+        "nome": "Cruzeiro",
+        "imagem": "imgs/cruzeiro.png"
+    },
+
+    {
+        "nome": "Flamengo",
+        "imagem": "imgs/flamengo.png"
+    },
+
+    {
+        "nome": "Palmeiras",
+        "imagem": "imgs/palmeiras.png"
+    },
+
+    {
+        "nome": "Santos",
+        "imagem": "imgs/santos.png"
+    },
+
+    {
+        "nome": "São Paulo",
+        "imagem": "imgs/saopaulo.png"
+    }
+]
